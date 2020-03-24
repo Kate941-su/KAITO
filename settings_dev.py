@@ -2,7 +2,7 @@ from .settings_common import *
 
 
 
-# ロギング設定
+# ろぎんぐ設定
 
 LOGGING = {
     'version': 1,
